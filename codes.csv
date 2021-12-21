@@ -1,0 +1,549 @@
+list_name	name	label	question	code	color
+sp6bm32	bor_south	Bor South	County		
+sp6bm32	twic_east	Twic East	County		
+sp6bm32	duk	Duk	County		
+sp6bm32	pibor	Pibor	County		
+vj3be51	18_35	18-35	##Unknown##		
+vj3be51	36_53	36-53	##Unknown##		
+vj3be51	54_and_above	54 and above	##Unknown##		
+ub8iv19	male	Male	Sex_of_respondent		
+ub8iv19	female	Female	Sex_of_respondent		
+jl1gl39	yes	Yes	Are_you_the_head_of_your_house		
+jl1gl39	no	No	Are_you_the_head_of_your_house		
+he0an06	husband	Husband	If_you_are_not_the_head_of_HH_		
+he0an06	wife	Wife	If_you_are_not_the_head_of_HH_		
+he0an06	brother	Brother	If_you_are_not_the_head_of_HH_		
+he0an06	sister	Sister	If_you_are_not_the_head_of_HH_		
+he0an06	son	Son	If_you_are_not_the_head_of_HH_		
+he0an06	daughter	Daughter	If_you_are_not_the_head_of_HH_		
+he0an06	co_wife	Co-wife	If_you_are_not_the_head_of_HH_		
+he0an06	other_relative	Other relative	If_you_are_not_the_head_of_HH_		
+mr8qu97	male	Male	If_you_are_not_the_h_er_of_the_head_of_HH		
+mr8qu97	female	Female	If_you_are_not_the_h_er_of_the_head_of_HH		
+nv4dg54	married	Married	Marital_status_of_the_respondent	1	green
+nv4dg54	single	Single	Marital_status_of_the_respondent	0	blue
+nv4dg54	divorced	Divorced	Marital_status_of_the_respondent	-1	red
+nv4dg54	widowed	Widowed	Marital_status_of_the_respondent	1	grey
+it3rz56	some_primary	Some Primary	What_is_the_highest_l_of_education_in_HH	0,5	red
+it3rz56	completed_primary	Completed primary	What_is_the_highest_l_of_education_in_HH	1	orange
+it3rz56	some_secondary	Some secondary	What_is_the_highest_l_of_education_in_HH	1,5	gold
+it3rz56	completed_secondary	Completed secondary	What_is_the_highest_l_of_education_in_HH	2	yellow
+it3rz56	some_university	Some university	What_is_the_highest_l_of_education_in_HH	2,5	lightgreen
+it3rz56	completed_university	Completed university	What_is_the_highest_l_of_education_in_HH	3	green
+it3rz56	graduate_degree	Graduate degree	What_is_the_highest_l_of_education_in_HH	3,5	darkgreen
+it3rz56	no_education	No education	What_is_the_highest_l_of_education_in_HH	0	black
+it3rz56	vocational_training	Vocational training	What_is_the_highest_l_of_education_in_HH	2	magenta
+wz4br28	employed	Employed	What_is_your_employment_status	1	green
+wz4br28	unemployed	Unemployed	What_is_your_employment_status	1	blue
+wz4br28	self_employed	Self employed	What_is_your_employment_status	0	red
+ue5qe12	land_cultivation	Land cultivation	What_is_your_household_s_prima		
+ue5qe12	livestock	Livestock	What_is_your_household_s_prima		
+ue5qe12	small_scale_trade	Small scale trade	What_is_your_household_s_prima		
+ue5qe12	aid	Aid	What_is_your_household_s_prima		
+ue5qe12	remittance	Remittance	What_is_your_household_s_prima		
+ue5qe12	casual_employment	Casual employment	What_is_your_household_s_prima		
+ue5qe12	formal_employment	Formal employment	What_is_your_household_s_prima		
+ue5qe12	don_t_know	Don't know	What_is_your_household_s_prima		
+ue5qe12	i_don_t_wish_to_answer	I don't wish to answer	What_is_your_household_s_prima		
+ue5qe12	other__please_specify	Other, please specify	What_is_your_household_s_prima		
+hk5cx91	0_ssp	0 SSP      	##Unknown##		
+hk5cx91	0_100_ssp	0-100 SSP      	##Unknown##		
+hk5cx91	101_300_ssp	101-300 SSP      	##Unknown##		
+hk5cx91	301_500_ssp	301-500 SSP	##Unknown##		
+hk5cx91	_500_ssp	>500 SSP	##Unknown##		
+sk6nm37	2_4	2-4   	##Unknown##		
+sk6nm37	5_6	5-6   	##Unknown##		
+sk6nm37	7_10	7-10   	##Unknown##		
+sk6nm37	_11	>11	##Unknown##		
+qj4dm93	internally_displaced_person__i	Internally Displaced Person (IDP)	residence_status	-1	red
+qj4dm93	returnee_idp	Returnee IDP	residence_status	0	lightgreen
+qj4dm93	returnee_refugee	Returnee refugee   	residence_status	0	yellow
+qj4dm93	host_community	Host Community	residence_status	1	green
+qj4dm93	others__specify	Others (specify)	residence_status	888	grey
+kj5js84	drought	Drought   	If_the_answer_is_IDP_why_did_		
+kj5js84	lack_of_food	Lack of food   	If_the_answer_is_IDP_why_did_		
+kj5js84	floods	Floods 	If_the_answer_is_IDP_why_did_		
+kj5js84	conflict	Conflict 	If_the_answer_is_IDP_why_did_		
+kj5js84	lack_of_water	Lack of water	If_the_answer_is_IDP_why_did_		
+kj5js84	other	Other	If_the_answer_is_IDP_why_did_		
+tx0rz32	1_3_months	1-3 months	If_the_answer_is_IDP_have_you_been_an_IDP	0	red
+tx0rz32	4_6_months	4-6 months	If_the_answer_is_IDP_have_you_been_an_IDP	0,5	orange
+tx0rz32	about_1_year	About 1 year	If_the_answer_is_IDP_have_you_been_an_IDP	1	yellow
+tx0rz32	1_2_years	1-2 years	If_the_answer_is_IDP_have_you_been_an_IDP	1,5	lightblue
+tx0rz32	over_2_years	Over 2 years	If_the_answer_is_IDP_have_you_been_an_IDP	2	blue
+fp3vi73	only_one_movement_from_the_place_of_orig	Only one movement from the place of origin and now	If_the_answer_is_IDP_e_you_been_displaced	0	green
+fp3vi73	two_or_more_movement_from_the_place_of_o	Two or more movement from the place of origin and now	If_the_answer_is_IDP_e_you_been_displaced	1	red
+fp3vi73	don_t_remember	Don’t remember      	If_the_answer_is_IDP_e_you_been_displaced	888	grey
+fp3vi73	don_t_want_to_answer	Don’t want to answer	If_the_answer_is_IDP_e_you_been_displaced	888	darkgrey
+rl9jt61	increased	Increased	Have_you_in_the_last_f_trust_cooperation	-1	red
+rl9jt61	decreased	Decreased	Have_you_in_the_last_f_trust_cooperation	1	green
+rl9jt61	stayed_about_the_same	Stayed about the same	Have_you_in_the_last_f_trust_cooperation	0	yellow
+rl9jt61	don_t_know	Don't know	Have_you_in_the_last_f_trust_cooperation	888	grey
+rl9jt61	refused_to_answer	Refused to answer	Have_you_in_the_last_f_trust_cooperation	888	darkgrey
+ca3ch33	not_at_all_able	Not at all able	To_what_extent_do_yo_and_basic_education	0	red
+ca3ch33	partially_able	Partially able	To_what_extent_do_yo_and_basic_education	1	yellow
+ca3ch33	almost_able	Almost able	To_what_extent_do_yo_and_basic_education	2	lightgreen
+ca3ch33	able	Able	To_what_extent_do_yo_and_basic_education	3	green
+ca3ch33	don_t_know	Don't know	To_what_extent_do_yo_and_basic_education	888	grey
+ca3ch33	refused_to_answer	Refused to answer	To_what_extent_do_yo_and_basic_education	888	darkgrey
+ka0mg55	not_at_all_able	Not at all able	To_what_extent_do_yo_r_the_next_12_months	0	red
+ka0mg55	partially_able	Partially able	To_what_extent_do_yo_r_the_next_12_months	1	yellow
+ka0mg55	almost_able	Almost able	To_what_extent_do_yo_r_the_next_12_months	2	lightgreen
+ka0mg55	able	Able	To_what_extent_do_yo_r_the_next_12_months	3	green
+ka0mg55	don_t_know	Don't know	To_what_extent_do_yo_r_the_next_12_months	888	grey
+ka0mg55	refused_to_answer	Refused to answer	To_what_extent_do_yo_r_the_next_12_months	888	darkgrey
+qe7ev73	definitely	Definitely	complain_reason	0	red
+qe7ev73	probably	Probably	complain_reason	1	yellow
+qe7ev73	do_not_know	Do not know	complain_reason	888	grey
+qe7ev73	probably_not	Probably Not	complain_reason	2	lightgreen
+qe7ev73	definitely_not	Definitely Not	complain_reason	3	green
+jh6xw90	strongly_disagree	Strongly disagree	Have_these_grievance_the_past_six_months	0	red
+jh6xw90	disagree	Disagree	Have_these_grievance_the_past_six_months	1	orange
+jh6xw90	neither_agree_nor_disagree	Neither agree nor disagree	Have_these_grievance_the_past_six_months	2	yellow
+jh6xw90	agree	Agree	Have_these_grievance_the_past_six_months	3	lightgreen
+jh6xw90	strongly_agree	Strongly agree	Have_these_grievance_the_past_six_months	4	green
+jh6xw90	don_t_know	Don't know	Have_these_grievance_the_past_six_months	888	grey
+jh6xw90	refused_to_answer	Refused to answer	Have_these_grievance_the_past_six_months	888	darkgrey
+yq6os19	strongly_disagree	Strongly disagree	b6	0	red
+yq6os19	disagree	Disagree	b6	1	orange
+yq6os19	neither_agree_nor_disagree	Neither agree nor disagree	b6	2	yellow
+yq6os19	agree	Agree	b6	3	lightgreen
+yq6os19	strongly_agree	Strongly agree	b6	4	green
+yq6os19	don_t_know	Don't know	b6	888	grey
+yq6os19	refused_to_answer	Refused to answer	b6	888	darkgrey
+gp45q28	1	To support the family	Why_do_you_think_women_should_		
+gp45q28	2	To support her own financial needs	Why_do_you_think_women_should_		
+gp45q28	3	To become more independent	Why_do_you_think_women_should_		
+gp45q28	4	Other (please specify) 	Why_do_you_think_women_should_		
+gp45q28	5	Don't know 	Why_do_you_think_women_should_		
+gp45q28	6	Refused to answer	Why_do_you_think_women_should_		
+ci3uz13	1	Only men should financially support the family	Why_do_you_think_women_should__001		
+ci3uz13	2	Women should not be financially independent	Why_do_you_think_women_should__001		
+ci3uz13	3	Women should only look after the household	Why_do_you_think_women_should__001		
+ci3uz13	4	Other (please specify)	Why_do_you_think_women_should__001		
+ci3uz13	5	Don’t know 	Why_do_you_think_women_should__001		
+ci3uz13	6	Refused to answer	Why_do_you_think_women_should__001		
+qz6ac99	strongly_disagree	Strongly disagree	b11	0	red
+qz6ac99	disagree	Disagree	b11	1	orange
+qz6ac99	neither_agree_nor_disagree	Neither agree nor disagree	b11	2	yellow
+qz6ac99	agree	Agree	b11	3	lightgreen
+qz6ac99	strongly_agree	Strongly agree	b11	4	green
+qz6ac99	don_t_know	Don’t know	b11	888	grey
+qz6ac99	refused_to_answer	Refused to answer	b11	888	darkgrey
+uv0nn64	1	To support the family	Why_do_you_think_youth_should_		
+uv0nn64	2	To support her own financial needs	Why_do_you_think_youth_should_		
+uv0nn64	3	To become more independent	Why_do_you_think_youth_should_		
+uv0nn64	4	Other (please specify) 	Why_do_you_think_youth_should_		
+uv0nn64	5	Don't know 	Why_do_you_think_youth_should_		
+uv0nn64	6	Refused to answer	Why_do_you_think_youth_should_		
+qw12r49	1	Only men should financially support the family	b14		
+qw12r49	2	Women should not be financially independent	b14		
+qw12r49	3	Women should only look after the household	b14		
+qw12r49	4	Other (please specify)	b14		
+qw12r49	5	Don’t know	b14		
+qw12r49	6	Refused to answer 	b14		
+kn9lb37	yes	Yes	Are_you_a_member_of_the_VSLA		
+kn9lb37	no	No	Are_you_a_member_of_the_VSLA		
+kn9lb37	don_t_know	Don't Know	Are_you_a_member_of_the_VSLA		
+kn9lb37	refused_to_answer	Refused to answer	Are_you_a_member_of_the_VSLA		
+uj2aq12	increased	Increased	Has_the_economic_sit_f_market_information	2	green
+uj2aq12	decreased	Decreased	Has_the_economic_sit_f_market_information	0	red
+uj2aq12	stayed_about_the_same	Stayed about the same	Has_the_economic_sit_f_market_information	1	yellow
+uj2aq12	don_t_know	Don’t know 	Has_the_economic_sit_f_market_information	888	grey
+uj2aq12	refused_to_answer	Refused to answer 	Has_the_economic_sit_f_market_information	888	darkgrey
+ab52e39	strongly_disagree	Strongly disagree	In_your_opinion_do_ceived_from_CARE_HDC	0	red
+ab52e39	disagree	Disagree	In_your_opinion_do_ceived_from_CARE_HDC	1	orange
+ab52e39	neither_agree_nor_disagree	Neither agree nor disagree	In_your_opinion_do_ceived_from_CARE_HDC	2	yellow
+ab52e39	agree	Agree	In_your_opinion_do_ceived_from_CARE_HDC	3	lightgreen
+ab52e39	strongly_agree	Strongly agree	In_your_opinion_do_ceived_from_CARE_HDC	4	green
+ab52e39	don_t_know	Don’t know	In_your_opinion_do_ceived_from_CARE_HDC	777	grey
+ab52e39	refused_to_answer	Refused to answer	In_your_opinion_do_ceived_from_CARE_HDC	888	darkgrey
+kp5az75	very_confident	Very confident	In_your_opinion_are_ceived_from_CARE_HDC	4	green
+kp5az75	confident	Confident	In_your_opinion_are_ceived_from_CARE_HDC	3	lightgreen
+kp5az75	neither_confident_nor_unconfident	Neither confident nor unconfident	In_your_opinion_are_ceived_from_CARE_HDC	2	yellow
+kp5az75	unconfident	unconfident	In_your_opinion_are_ceived_from_CARE_HDC	1	orange
+kp5az75	very_unconfident	Very unconfident	In_your_opinion_are_ceived_from_CARE_HDC	0	red
+kp5az75	don_t_know	Don’t know	In_your_opinion_are_ceived_from_CARE_HDC	888	grey
+kp5az75	refused_to_answer	Refused to answer	In_your_opinion_are_ceived_from_CARE_HDC	888	darkgrey
+xz0ul32	yes	Yes	b20	1	green
+xz0ul32	no	No	b20	0	red
+xz0ul32	don_t_know	Don't Know 	b20	888	grey
+xz0ul32	refused_to_answer	Refused to answer	b20	888	darkgrey
+oc35r13	merchandise_shop	Merchandise shop 	How_would_you_describe_your_bu		
+oc35r13	hair_dressing	Hair dressing 	How_would_you_describe_your_bu		
+oc35r13	restaurant	Restaurant 	How_would_you_describe_your_bu		
+oc35r13	fish_monger	Fish monger 	How_would_you_describe_your_bu		
+oc35r13	cattle_trading	Cattle trading 	How_would_you_describe_your_bu		
+oc35r13	phone_charging__airtime_sales__etc	Phone charging, airtime sales, etc	How_would_you_describe_your_bu		
+oc35r13	others__specify	Others (specify)	How_would_you_describe_your_bu		
+xl1kv16	yes	Yes	Did_your_business_la_six_months_or_longer		
+xl1kv16	no	No	Did_your_business_la_six_months_or_longer		
+xl1kv16	don_t_know	Don't know	Did_your_business_la_six_months_or_longer		
+xl1kv16	refused_to_answer	Refused to answer	Did_your_business_la_six_months_or_longer		
+id6js45	yes	Yes	b24		
+id6js45	no	No	b24		
+id6js45	don_t_know	Don't know 	b24		
+id6js45	refused_to_answer	Refused to answer	b24		
+hr4ul51	yes	Yes	Did_your_business_gr_the_last_six_months		
+hr4ul51	no	No	Did_your_business_gr_the_last_six_months		
+hr4ul51	don_t_know	Don't know	Did_your_business_gr_the_last_six_months		
+hr4ul51	refused_to_answer	Refused to answer	Did_your_business_gr_the_last_six_months		
+rq7kw48	yes	Yes	Did_you_begin_any_types_of_liv		
+rq7kw48	no	No	Did_you_begin_any_types_of_liv		
+rq7kw48	don_t_know	Don't Know	Did_you_begin_any_types_of_liv		
+rq7kw48	refused_to_answer	Refused to answer	Did_you_begin_any_types_of_liv		
+xn41t06	merchandise_shop	Merchandise shop 	If_yes_what_type_of_livelihoo		
+xn41t06	hair_dressing	Hair dressing 	If_yes_what_type_of_livelihoo		
+xn41t06	_restaurant	 Restaurant 	If_yes_what_type_of_livelihoo		
+xn41t06	fish_monger	Fish monger 	If_yes_what_type_of_livelihoo		
+xn41t06	cattle_trading	Cattle trading 	If_yes_what_type_of_livelihoo		
+xn41t06	phone_charging__airtime_sales_	Phone charging, airtime sales, etc	If_yes_what_type_of_livelihoo		
+xn41t06	others__specify	Others (specify)	If_yes_what_type_of_livelihoo		
+sm57g23	every_day	Every day	CSI1	4	red
+sm57g23	almost_every_day_of_the_month	Almost every day of the month	CSI1	3	orange
+sm57g23	half_the_time	Half the time	CSI1	2	yellow
+sm57g23	a_few_days_a_month	A few days a month	CSI1	1	lightgreen
+sm57g23	never	Never	CSI1	0	green
+sm57g23	don_t_know	Don’t know 	CSI1	888	grey
+sm57g23	refused_to_answer	Refused to answer   	CSI1	888	darkgrey
+pc1tn05	every_day	Every day	CSI2	4	red
+pc1tn05	almost_every_day_of_the_month	Almost every day of the month	CSI2	3	orange
+pc1tn05	half_the_time	Half the time	CSI2	2	yellow
+pc1tn05	a_few_days_a_month	A few days a month	CSI2	1	lightgreen
+pc1tn05	never	Never	CSI2	0	green
+pc1tn05	don_t_know	Don’t know 	CSI2	888	grey
+pc1tn05	refused_to_answer	Refused to answer   	CSI2	888	darkgrey
+cv32n86	every_day	Every day	How_often_did_everyo_uring_the_last_month	4	red
+cv32n86	almost_every_day_of_the_month	Almost every day of the month	How_often_did_everyo_uring_the_last_month	3	orange
+cv32n86	half_the_time	Half the time	How_often_did_everyo_uring_the_last_month	2	yellow
+cv32n86	a_few_days_a_month	A few days a month	How_often_did_everyo_uring_the_last_month	1	lightgreen
+cv32n86	never	Never	How_often_did_everyo_uring_the_last_month	0	green
+cv32n86	don_t_know	Don’t know 	How_often_did_everyo_uring_the_last_month	888	grey
+cv32n86	refused_to_answer	Refused to answer   	How_often_did_everyo_uring_the_last_month	888	darkgrey
+mo6qc85	every_day	Every day	CSI3	4	red
+mo6qc85	almost_every_day_of_the_month	Almost every day of the month	CSI3	3	orange
+mo6qc85	half_the_time	Half the time	CSI3	2	yellow
+mo6qc85	a_few_days_a_month	A few days a month	CSI3	1	lightgreen
+mo6qc85	never	Never	CSI3	0	green
+mo6qc85	don_t_know	Don’t know 	CSI3	888	grey
+mo6qc85	refused_to_answer	Refused to answer   	CSI3	888	darkgrey
+bc5bw36	every_day	Every day	CSI4	4	red
+bc5bw36	almost_every_day_of_the_month	Almost every day of the month	CSI4	3	orange
+bc5bw36	half_the_time	Half the time	CSI4	2	yellow
+bc5bw36	a_few_days_a_month	A few days a month	CSI4	1	lightgreen
+bc5bw36	never	Never	CSI4	0	green
+bc5bw36	don_t_know	Don’t know 	CSI4	888	grey
+bc5bw36	refused_to_answer	Refused to answer   	CSI4	888	darkgrey
+hk2ab46	every_day	Every day	CSI5	4	red
+hk2ab46	almost_every_day_of_the_month	Almost every day of the month	CSI5	3	orange
+hk2ab46	half_the_time	Half the time	CSI5	2	yellow
+hk2ab46	a_few_days_a_month	A few days a month	CSI5	1	lightgreen
+hk2ab46	never	Never	CSI5	0	green
+hk2ab46	don_t_know	Don’t know 	CSI5	888	grey
+hk2ab46	refused_to_answer	Refused to answer   	CSI5	888	darkgrey
+rz87k31	every_day	Every day	CSI6	4	red
+rz87k31	almost_every_day_of_the_month	Almost every day of the month	CSI6	3	orange
+rz87k31	half_the_time	Half the time	CSI6	2	yellow
+rz87k31	a_few_days_a_month	A few days a month	CSI6	1	lightgreen
+rz87k31	never	Never	CSI6	0	green
+rz87k31	don_t_know	Don’t know 	CSI6	888	grey
+rz87k31	refused_to_answer	Refused to answer   	CSI6	888	darkgrey
+tn2oh98	every_day	Every day	CSI7	4	red
+tn2oh98	almost_every_day_of_the_month	Almost every day of the month	CSI7	3	orange
+tn2oh98	half_the_time	Half the time	CSI7	2	yellow
+tn2oh98	a_few_days_a_month	A few days a month	CSI7	1	lightgreen
+tn2oh98	never	Never	CSI7	0	green
+tn2oh98	don_t_know	Don’t know 	CSI7	888	grey
+tn2oh98	refused_to_answer	Refused to answer   	CSI7	888	darkgrey
+af43d54	definitely	Definitely	Do_you_feel_that_you_meeting_and_speak_up	3	green
+af43d54	probably	Probably	Do_you_feel_that_you_meeting_and_speak_up	2	lightgreen
+af43d54	do_not_know	Do not know	Do_you_feel_that_you_meeting_and_speak_up	888	grey
+af43d54	probably_not	Probably Not	Do_you_feel_that_you_meeting_and_speak_up	1	orange
+af43d54	definitely_not	Definitely Not	Do_you_feel_that_you_meeting_and_speak_up	0	red
+ln92h82	strongly_disagree	Strongly disagree	Do_you_feel_that_you_y_other_participants	0	red
+ln92h82	disagree	Disagree	Do_you_feel_that_you_y_other_participants	1	orange
+ln92h82	neither_agree_nor_disagree	Neither agree nor disagree	Do_you_feel_that_you_y_other_participants	2	yellow
+ln92h82	agree	Agree	Do_you_feel_that_you_y_other_participants	3	lightgreen
+ln92h82	strongly_agree	Strongly agree	Do_you_feel_that_you_y_other_participants	4	green
+ln92h82	don_t_know	Don’t know 	Do_you_feel_that_you_y_other_participants	888	grey
+ln92h82	refused_to_answer	Refused to answer   	Do_you_feel_that_you_y_other_participants	888	darkgrey
+lt8oy38	definitely	Definitely	Have_you_ever_partic_o_promote_peace_etc	3	green
+lt8oy38	probably	Probably	Have_you_ever_partic_o_promote_peace_etc	2	lightgreen
+lt8oy38	do_not_know	Do not know	Have_you_ever_partic_o_promote_peace_etc	888	grey
+lt8oy38	probably_not	Probably Not	Have_you_ever_partic_o_promote_peace_etc	1	orange
+lt8oy38	definitely_not	Definitely Not	Have_you_ever_partic_o_promote_peace_etc	0	red
+hk2nw66	increased	Increased	Has_IN_THE_PAST_1_YE_e_same_or_decreased	0	red
+hk2nw66	decreased	Decreased	Has_IN_THE_PAST_1_YE_e_same_or_decreased	2	green
+hk2nw66	stayed_about_the_same	Stayed about the same	Has_IN_THE_PAST_1_YE_e_same_or_decreased	1	yellow
+hk2nw66	don_t_know	Don’t know 	Has_IN_THE_PAST_1_YE_e_same_or_decreased	888	grey
+hk2nw66	refused_to_answer	Refused to answer   	Has_IN_THE_PAST_1_YE_e_same_or_decreased	888	darkgrey
+cq8mr84	completely_secure	Completely secure	Yourself	4	green
+cq8mr84	relatively_secure	Relatively secure	Yourself	3	lightgreen
+cq8mr84	neither_secure_nor_insecure	Neither secure nor insecure	Yourself	2	yellow
+cq8mr84	relatively_insecure	Relatively insecure	Yourself	1	orange
+cq8mr84	not_secure_at_all	Not secure at all	Yourself	0	red
+cq8mr84	don_t_know	Don’t know	Yourself	888	grey
+cq8mr84	refused_to_answer	Refused to answer	Yourself	888	darkgrey
+cq8mr84	completely_secure	Completely secure	Children	4	green
+cq8mr84	relatively_secure	Relatively secure	Children	3	lightgreen
+cq8mr84	neither_secure_nor_insecure	Neither secure nor insecure	Children	2	yellow
+cq8mr84	relatively_insecure	Relatively insecure	Children	1	orange
+cq8mr84	not_secure_at_all	Not secure at all	Children	0	red
+cq8mr84	don_t_know	Don’t know 	Children	888	grey
+cq8mr84	refused_to_answer	Refused to answer   	Children	888	darkgrey
+cq8mr84	completely_secure	Completely secure	Cattle	4	green
+cq8mr84	relatively_secure	Relatively secure	Cattle	3	lightgreen
+cq8mr84	neither_secure_nor_insecure	Neither secure nor insecure	Cattle	2	yellow
+cq8mr84	relatively_insecure	Relatively insecure	Cattle	1	orange
+cq8mr84	not_secure_at_all	Not secure at all	Cattle	0	red
+cq8mr84	don_t_know	Don’t know 	Cattle	888	grey
+cq8mr84	refused_to_answer	Refused to answer   	Cattle	888	darkgrey
+ws6mz95	yes	Yes	c6		
+ws6mz95	no	No	c6		
+ws6mz95	don_t_know	Don't know	c6		
+ws6mz95	refused_to_answer	Refused to answer	c6		
+xy2yu35	definitely	Definitely	Has_a_peace_committe_ct_in_your_community	3	green
+xy2yu35	probably	Probably	Has_a_peace_committe_ct_in_your_community	2	lightgreen
+xy2yu35	do_not_know	Do not know	Has_a_peace_committe_ct_in_your_community	888	grey
+xy2yu35	probably_not	Probably Not	Has_a_peace_committe_ct_in_your_community	1	orange
+xy2yu35	definitely_not	Definitely Not	Has_a_peace_committe_ct_in_your_community	0	red
+of74t22	very_positive	Very positive	Do_you_think_these_p_ect_on_the_community	4	green
+of74t22	positive	Positive	Do_you_think_these_p_ect_on_the_community	3	lightgreen
+of74t22	neither_positive_nor_negative	Neither positive nor negative	Do_you_think_these_p_ect_on_the_community	2	yellow
+of74t22	negative	Negative	Do_you_think_these_p_ect_on_the_community	1	orange
+of74t22	very_negative	Very negative	Do_you_think_these_p_ect_on_the_community	0	red
+of74t22	don_t_know	Don’t know 	Do_you_think_these_p_ect_on_the_community	888	grey
+of74t22	refused_to_answer	Refused to answer   	Do_you_think_these_p_ect_on_the_community	888	darkgrey
+sw4to23	increased_a_lot	Increased a lot	Compared_to_2020_do_d_or_stayed_the_same	0	red
+sw4to23	increased_a_little	Increased a little	Compared_to_2020_do_d_or_stayed_the_same	1	orange
+sw4to23	neither_increased_nor_decreased	Neither increased nor decreased	Compared_to_2020_do_d_or_stayed_the_same	2	yellow
+sw4to23	decreased_a_little	Decreased a little	Compared_to_2020_do_d_or_stayed_the_same	3	lightgreen
+sw4to23	decreased_a_lot	Decreased a lot	Compared_to_2020_do_d_or_stayed_the_same	4	green
+sw4to23	don_t_know	Don’t know	Compared_to_2020_do_d_or_stayed_the_same	888	grey
+sw4to23	refused_to_answer	Refused to answer	Compared_to_2020_do_d_or_stayed_the_same	888	darkgrey
+bz1xq60	definitely	Definitely	Do_you_feel_your_eff_en_taken_accordingly	3	green
+bz1xq60	probably	Probably	Do_you_feel_your_eff_en_taken_accordingly	2	lightgreen
+bz1xq60	do_not_know	Do not know	Do_you_feel_your_eff_en_taken_accordingly	888	grey
+bz1xq60	probably_not	Probably Not	Do_you_feel_your_eff_en_taken_accordingly	1	orange
+bz1xq60	definitely_not	Definitely Not	Do_you_feel_your_eff_en_taken_accordingly	0	red
+lf1kd38	definitely	Definitely	Would_you_go_to_the_that_you_experienced	3	green
+lf1kd38	probably	Probably	Would_you_go_to_the_that_you_experienced	2	lightgreen
+lf1kd38	do_not_know	Do not know	Would_you_go_to_the_that_you_experienced	888	grey
+lf1kd38	probably_not	Probably Not	Would_you_go_to_the_that_you_experienced	1	orange
+lf1kd38	definitely_not	Definitely Not	Would_you_go_to_the_that_you_experienced	0	red
+xe7el03	always	Always	How_likely_do_you_fe_ow_up_on_your_report	2	green
+xe7el03	sometimes	Sometimes	How_likely_do_you_fe_ow_up_on_your_report	1	yellow
+xe7el03	not_at_all	Not at all	How_likely_do_you_fe_ow_up_on_your_report	0	red
+xe7el03	don_t_know	Don’t know 	How_likely_do_you_fe_ow_up_on_your_report	888	grey
+xe7el03	refused_to_answer	Refused to answer   	How_likely_do_you_fe_ow_up_on_your_report	888	darkgrey
+ax5uy51	increased_a_lot	Increased a lot	Compared_to_last_yea_or_stayed_the_same	4	green
+ax5uy51	increased_a_little	Increased a little	Compared_to_last_yea_or_stayed_the_same	3	lightgreen
+ax5uy51	neither_increased_nor_decreased	Neither increased nor decreased	Compared_to_last_yea_or_stayed_the_same	2	yellow
+ax5uy51	decreased_a_little	Decreased a little	Compared_to_last_yea_or_stayed_the_same	1	orange
+ax5uy51	decreased_a_lot	Decreased a lot	Compared_to_last_yea_or_stayed_the_same	0	red
+ax5uy51	don_t_know	Don’t know	Compared_to_last_yea_or_stayed_the_same	888	grey
+ax5uy51	refused_to_answer	Refused to answer	Compared_to_last_yea_or_stayed_the_same	888	darkgrey
+gd8nd26	0_times	0 times	d6	0,5	orange
+gd8nd26	1_3_times	1-3 times	d6	1	yellow
+gd8nd26	4_6_times	4-6 times	d6	2	lightgreen
+gd8nd26	7_9_times	7-9 times	d6	3	green
+gd8nd26	10_times_or_more	10 times or more	d6	4	darkgreen
+gd8nd26	none	None	d6	0	red
+gd8nd26	don_t_know	Don’t know	d6	888	grey
+gd8nd26	refused_to_answer	Refused to answer	d6	888	darkgrey
+sb6sn31	1	In the market	d7		
+sb6sn31	2	In the workplace	d7		
+sb6sn31	3	Collecting water 	d7		
+sb6sn31	4	Collecting firewood	d7		
+sb6sn31	5	Doing cultivation	d7		
+sb6sn31	6	Caring for livestock	d7		
+sb6sn31	7	At school	d7		
+sb6sn31	8	In church	d7		
+sb6sn31	9	Social events (funeral, marriages, cultural dances, wrestling, etc)	d7		
+sb6sn31	10	Other (please specify)	d7		
+sb6sn31	11	Don’t know 	d7		
+sb6sn31	12	Refused to answer   	d7		
+fr1ee03	definitely	Definitely	Do_you_have_personal_er_communities_clans	3	green
+fr1ee03	probably	Probably	Do_you_have_personal_er_communities_clans	2	lightgreen
+fr1ee03	do_not_know	Do not know	Do_you_have_personal_er_communities_clans	888	grey
+fr1ee03	probably_not	Probably Not	Do_you_have_personal_er_communities_clans	1	orange
+fr1ee03	definitely_not	Definitely Not	Do_you_have_personal_er_communities_clans	0	red
+lv0hb24	0_times	0 times	d10	0	orange
+lv0hb24	1_3_times	1-3 times	d10	1	yellow
+lv0hb24	4_6_times	4-6 times	d10	2	lightgreen
+lv0hb24	7_9_times	7-9 times	d10	3	green
+lv0hb24	10_times_or_more	10 times or more	d10	4	darkgreen
+lv0hb24	none	None	d10	0	red
+lv0hb24	don_t_know	Don’t know 	d10	888	grey
+lv0hb24	refused_to_answer	Refused to answer   	d10	888	darkgrey
+dt2ar08	1	In the market	How_would_you_describe_those_i		
+dt2ar08	2	In the workplace	How_would_you_describe_those_i		
+dt2ar08	3	Collecting water 	How_would_you_describe_those_i		
+dt2ar08	4	Collecting firewood	How_would_you_describe_those_i		
+dt2ar08	5	Doing cultivation	How_would_you_describe_those_i		
+dt2ar08	6	Caring for livestock	How_would_you_describe_those_i		
+dt2ar08	7	At school	How_would_you_describe_those_i		
+dt2ar08	8	In church	How_would_you_describe_those_i		
+dt2ar08	9	Social events (funeral, marriages, cultural dances, wrestling, etc)	How_would_you_describe_those_i		
+dt2ar08	10	Other (please specify)	How_would_you_describe_those_i		
+dt2ar08	11	Don’t know 	How_would_you_describe_those_i		
+dt2ar08	12	Refused to answer   	How_would_you_describe_those_i		
+xj24z57	definitely	Definitely	Would_you_say_that_m_roup_can_be_trusted	3	green
+xj24z57	probably	Probably	Would_you_say_that_m_roup_can_be_trusted	2	lightgreen
+xj24z57	do_not_know	Do not know	Would_you_say_that_m_roup_can_be_trusted	888	grey
+xj24z57	probably_not	Probably Not	Would_you_say_that_m_roup_can_be_trusted	1	orange
+xj24z57	definitely_not	Definitely Not	Would_you_say_that_m_roup_can_be_trusted	0	red
+ys5be15	always	Always	d14	2	green
+ys5be15	sometimes	Sometimes	d14	1	yellow
+ys5be15	not_at_all	Not at all	d14	0	red
+ys5be15	don_t_know	Don’t know 	d14	888	grey
+ys5be15	refused_to_answer	Refused to answer   	d14	888	darkgrey
+ys5be15	na	0	d14	888	black
+qr7zi11	definitely	Definitely	Would_you_consider_y_ty_to_be_trustworthy	3	green
+qr7zi11	probably	Probably	Would_you_consider_y_ty_to_be_trustworthy	2	lightgreen
+qr7zi11	do_not_know	Do not know	Would_you_consider_y_ty_to_be_trustworthy	888	grey
+qr7zi11	probably_not	Probably Not	Would_you_consider_y_ty_to_be_trustworthy	1	orange
+qr7zi11	definitely_not	Definitely Not	Would_you_consider_y_ty_to_be_trustworthy	0	red
+st2dq11	yes	Yes	d16		
+st2dq11	no	No	d16		
+st2dq11	don_t_know	Don't Know	d16		
+st2dq11	refused_to_answer	Refused to answer	d16		
+gi9wx88	definitely	Definitely	Do_you_feel_that_you_cts_in_your_location	3	green
+gi9wx88	probably	Probably	Do_you_feel_that_you_cts_in_your_location	2	lightgreen
+gi9wx88	do_not_know	Do not know	Do_you_feel_that_you_cts_in_your_location	888	grey
+gi9wx88	probably_not	Probably Not	Do_you_feel_that_you_cts_in_your_location	1	orange
+gi9wx88	definitely_not	Definitely Not	Do_you_feel_that_you_cts_in_your_location	0	red
+dz1rd05	strongly_disagree	Strongly disagree	Are_you_satisfied_wi_in_the_PRA_projects	4	green
+dz1rd05	disagree	Disagree	Are_you_satisfied_wi_in_the_PRA_projects	3	lightgreen
+dz1rd05	neither_agree_nor_disagree	Neither agree nor disagree	Are_you_satisfied_wi_in_the_PRA_projects	2	yellow
+dz1rd05	agree	Agree	Are_you_satisfied_wi_in_the_PRA_projects	1	orange
+dz1rd05	strongly_agree	Strongly agree	Are_you_satisfied_wi_in_the_PRA_projects	0	red
+dz1rd05	don_t_know	Don’t know 	Are_you_satisfied_wi_in_the_PRA_projects	888	grey
+dz1rd05	refused_to_answer	Refused to answer   	Are_you_satisfied_wi_in_the_PRA_projects	888	darkgrey
+vx2vr00	0	None, I have not considered emigration before	e1	3	blue
+vx2vr00	1	I do not have any concrete plans yet, but I have considered the possibility and would like more information	e1	2	lightblue
+vx2vr00	2	I have made preparations (i.e. saved some money, contacted friends/family abroad) but am considering delaying my plans	e1	1	yellow
+vx2vr00	3	I have made concrete arrangements (saved enough money, chosen a destination/route, sold possessions, bought a ticket/organized transportation) and plan to emigrate within the next year.	e1	0	lightgreen
+vx2vr00	4	Don't Know	e1	888	grey
+vx2vr00	5	Refused to answer	e1	888	darkgrey
+te0sn29	within_the_county	Within the county	If_you_chose_answer_nning_to_emigrate_to		
+te0sn29	outside_the_county_but_within_the_state	Outside the county but within the state	If_you_chose_answer_nning_to_emigrate_to		
+te0sn29	outside_the_state_but_within_the_country	Outside the state but within the country	If_you_chose_answer_nning_to_emigrate_to		
+te0sn29	outside_the_country	Outside the country	If_you_chose_answer_nning_to_emigrate_to		
+jr8ja65	within_the_county	Within the county	##Unknown##		
+jr8ja65	outside_the_county_but_within_the_state	Outside the county but within the state	##Unknown##		
+jr8ja65	outside_the_state_but_within_the_country	Outside the state but within the country	##Unknown##		
+jr8ja65	outside_the_country	Outside the country	##Unknown##		
+zi92h23	lack_of_employment_opportuniti	Lack of employment opportunities	What_is_the_main_reason_why_yo		
+zi92h23	more_money_offered_for_jobs_el	More money offered for jobs elsewhere	What_is_the_main_reason_why_yo		
+zi92h23	threats_security	Threats/security	What_is_the_main_reason_why_yo		
+zi92h23	education	Education	What_is_the_main_reason_why_yo		
+zi92h23	other__please_specify	Other (please specify)	What_is_the_main_reason_why_yo		
+rr8tp52	completely_safe	Completely safe	Do_you_feel_you_and_safe_where_you_live	4	green
+rr8tp52	relatively_safe	Relatively safe	Do_you_feel_you_and_safe_where_you_live	3	lightgreen
+rr8tp52	neither_safe_nor_insecure	Neither safe nor insecure	Do_you_feel_you_and_safe_where_you_live	2	yellow
+rr8tp52	relatively_insecure	Relatively insecure	Do_you_feel_you_and_safe_where_you_live	1	orange
+rr8tp52	not_safe_at_all	Not safe at all	Do_you_feel_you_and_safe_where_you_live	0	red
+rr8tp52	don_t_know	Don't know	Do_you_feel_you_and_safe_where_you_live	888	grey
+rr8tp52	refused_to_answer	Refused to answer	Do_you_feel_you_and_safe_where_you_live	888	darkgrey
+gi3gw19	definitely	Definitely	Do_you_think_you_wil_e_in_the_near_future	3	green
+gi3gw19	probably	Probably	Do_you_think_you_wil_e_in_the_near_future	2	lightgreen
+gi3gw19	do_not_know	Do not know	Do_you_think_you_wil_e_in_the_near_future	888	grey
+gi3gw19	probably_not	Probably Not	Do_you_think_you_wil_e_in_the_near_future	1	orange
+gi3gw19	definitely_not	Definitely Not	Do_you_think_you_wil_e_in_the_near_future	0	red
+fv31i37	definitely	Definitely	Do_you_expect_this_s_tuation_will_improve	3	green
+fv31i37	probably	Probably	Do_you_expect_this_s_tuation_will_improve	2	lightgreen
+fv31i37	do_not_know	Do not know	Do_you_expect_this_s_tuation_will_improve	888	grey
+fv31i37	probably_not	Probably Not	Do_you_expect_this_s_tuation_will_improve	1	orange
+fv31i37	definitely_not	Definitely Not	Do_you_expect_this_s_tuation_will_improve	0	red
+ks5am09	completely_safe	Completely safe	Do_you_feel_your_herd_cattle_are_safe	4	green
+ks5am09	relatively_safe	Relatively safe	Do_you_feel_your_herd_cattle_are_safe	3	lightgreen
+ks5am09	neither_safe_nor_insecure	Neither safe nor insecure	Do_you_feel_your_herd_cattle_are_safe	2	yellow
+ks5am09	relatively_insecure	Relatively insecure	Do_you_feel_your_herd_cattle_are_safe	1	orange
+ks5am09	not_safe_at_all	Not safe at all	Do_you_feel_your_herd_cattle_are_safe	0	red
+ks5am09	don_t_know	Don't Know	Do_you_feel_your_herd_cattle_are_safe	888	grey
+ks5am09	refused_to_answer	Refused to Answer	Do_you_feel_your_herd_cattle_are_safe	888	darkgrey
+uj1ml49	definitely	Definitely	Do_you_think_your_li_e_in_the_next_1_year	3	green
+uj1ml49	probably	Probably	Do_you_think_your_li_e_in_the_next_1_year	2	lightgreen
+uj1ml49	do_not_know	Do not know	Do_you_think_your_li_e_in_the_next_1_year	888	grey
+uj1ml49	probably_not	Probably Not	Do_you_think_your_li_e_in_the_next_1_year	1	orange
+uj1ml49	definitely_not	Definitely Not	Do_you_think_your_li_e_in_the_next_1_year	0	red
+cv57z51	definitely	Definitely	Do_you_expect_this_s_tuation_will_improve_001	3	green
+cv57z51	probably	Probably	Do_you_expect_this_s_tuation_will_improve_001	2	lightgreen
+cv57z51	do_not_know	Do not know	Do_you_expect_this_s_tuation_will_improve_001	888	grey
+cv57z51	probably_not	Probably Not	Do_you_expect_this_s_tuation_will_improve_001	1	orange
+cv57z51	definitely_not	Definitely Not	Do_you_expect_this_s_tuation_will_improve_001	0	red
+nu2hk70	strongly_disagree	Strongly disagree	Has_the_economic_sit_f_market_information_001	0	red
+nu2hk70	disagree	Disagree	Has_the_economic_sit_f_market_information_001	1	orange
+nu2hk70	neither_agree_nor_disagree	Neither agree nor disagree	Has_the_economic_sit_f_market_information_001	2	yellow
+nu2hk70	agree	Agree	Has_the_economic_sit_f_market_information_001	3	lightgreen
+nu2hk70	strongly_agree	Strongly agree	Has_the_economic_sit_f_market_information_001	4	green
+nu2hk70	don_t_know	Don't know	Has_the_economic_sit_f_market_information_001	888	grey
+nu2hk70	refused_to_answer	Refused to answer	Has_the_economic_sit_f_market_information_001	888	darkgrey
+zr8py73	strongly_disagree	Strongly disagree	Do_you_expect_that_t_continue_to_improve	0	red
+zr8py73	disagree	Disagree	Do_you_expect_that_t_continue_to_improve	1	orange
+zr8py73	neither_agree_nor_disagree	Neither agree nor disagree	Do_you_expect_that_t_continue_to_improve	2	yellow
+zr8py73	agree	Agree	Do_you_expect_that_t_continue_to_improve	3	lightgreen
+zr8py73	strongly_agree	Strongly agree	Do_you_expect_that_t_continue_to_improve	4	green
+ro5cq49	strongly_disagree	Strongly disagree	Do_you_expect_to_see_e_in_the_near_future	0	red
+ro5cq49	disagree	Disagree	Do_you_expect_to_see_e_in_the_near_future	1	orange
+ro5cq49	neither_agree_nor_disagree	Neither agree nor disagree	Do_you_expect_to_see_e_in_the_near_future	2	yellow
+ro5cq49	agree	Agree	Do_you_expect_to_see_e_in_the_near_future	3	lightgreen
+ro5cq49	strongly_agree	Strongly agree	Do_you_expect_to_see_e_in_the_near_future	4	green
+ro5cq49	don_t_know	Don't know	Do_you_expect_to_see_e_in_the_near_future	888	grey
+ro5cq49	answer	Answer	Do_you_expect_to_see_e_in_the_near_future	888	darkgrey
+sz8sr35	strongly_disagree	Strongly disagree	Do_you_expect_that_y_w_in_the_near_future	0	red
+sz8sr35	disagree	Disagree	Do_you_expect_that_y_w_in_the_near_future	1	orange
+sz8sr35	neither_agree_nor_disagree	Neither agree nor disagree	Do_you_expect_that_y_w_in_the_near_future	2	yellow
+sz8sr35	agree	Agree	Do_you_expect_that_y_w_in_the_near_future	3	lightgreen
+sz8sr35	strongly_agree	Strongly agree	Do_you_expect_that_y_w_in_the_near_future	4	green
+sz8sr35	don_t_know	Don't Know	Do_you_expect_that_y_w_in_the_near_future	888	grey
+sz8sr35	answer	Answer	Do_you_expect_that_y_w_in_the_near_future	888	darkgrey
+wq5si59	strongly_disagree	Strongly disagree	Do_you_feel_you_have_secure_future_income	0	red
+wq5si59	disagree	Disagree	Do_you_feel_you_have_secure_future_income	1	orange
+wq5si59	neither_agree_nor_disagree	Neither agree nor disagree	Do_you_feel_you_have_secure_future_income	2	yellow
+wq5si59	agree	Agree	Do_you_feel_you_have_secure_future_income	3	lightgreen
+wq5si59	strongly_agree	Strongly agree	Do_you_feel_you_have_secure_future_income	4	green
+wq5si59	don_t_know	Don't Know	Do_you_feel_you_have_secure_future_income	888	grey
+wq5si59	answer	Answer	Do_you_feel_you_have_secure_future_income	888	darkgrey
+id5mc82	definitely	Definitely	In_general_do_you_f_onsive_to_your_needs	3	green
+id5mc82	probably	Probably	In_general_do_you_f_onsive_to_your_needs	2	lightgreen
+id5mc82	do_not_know	Do not know	In_general_do_you_f_onsive_to_your_needs	888	grey
+id5mc82	probably_not	Probably Not	In_general_do_you_f_onsive_to_your_needs	1	orange
+id5mc82	definitely_not	Definitely Not	In_general_do_you_f_onsive_to_your_needs	0	red
+ji6bg51	husband	Husband	In_your_household_who_decides_	2	blue
+ji6bg51	wife	Wife	In_your_household_who_decides_	0	green
+ji6bg51	jointly	Jointly	In_your_household_who_decides_	1	pink
+ji6bg51	others__specify	Others (specify)	In_your_household_who_decides_	888	grey
+te3of15	husband	Husband	In_your_household_who_decides__001	2	blue
+te3of15	wife	Wife	In_your_household_who_decides__001	0	green
+te3of15	jointly	Jointly	In_your_household_who_decides__001	1	pink
+te3of15	others__specify	Others (specify)	In_your_household_who_decides__001	888	grey
+qn3wq89	irrigation_dams_dykes	Irrigation dams/dykes	What_assets_do_you_have_or_kn		
+qn3wq89	water_tank_to_store_water	Water tank to store water	What_assets_do_you_have_or_kn		
+qn3wq89	water_pumps	Water pumps	What_assets_do_you_have_or_kn		
+qn3wq89	savings_to_overcome_the_difficult_period	Savings to overcome the difficult period	What_assets_do_you_have_or_kn		
+qn3wq89	other__specify	Other (specify)	What_assets_do_you_have_or_kn		
+kl5km76	i_know_how_to_make_a_water_dam	I know how to make a water dam	What_skills_do_you_have_or_kn		
+kl5km76	i_know_what_plants_or_crops_to_grow_that	I know what plants or crops to grow that are more resistant to drought or reduced rainfall	What_skills_do_you_have_or_kn		
+kl5km76	i_know_where_to_find_work_to_overcome_th	I know where to find work to overcome the difficult period	What_skills_do_you_have_or_kn		
+kl5km76	other__please_specify	Other (please specify)	What_skills_do_you_have_or_kn		
+			testvalid		
+testvalid	valid	Valid	testvalid		
+testvalid	test	Test	testvalid		
+			testvalid		
+month	jan	January	month		
+month	feb	February	month		
+month	mar	March	month		
+month	apr	April	month		
+month	may	May	month		
+month	jun	June	month		
+month	jul	July	month		
+month	aug	August	month		
+month	sep	September	month		
+month	oct	October	month		
+month	nov	November	month		
+month	dec	December	month		
+			testvalid		
+Consent	1	Yes	Consent		
+Consent	2	No	Consent		
