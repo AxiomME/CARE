@@ -468,7 +468,7 @@ def main():
 		
 		st.markdown("""---""")	
 		
-		select=st.selectbox('Select a question',[quests[i][0] for i in L if i not in ['County','Payam_cleanV\n']])
+		select=st.selectbox('Select a question',[quests[i][0] for i in L if i not in ['County','Payam']])
 		selection=[i for i in quests if quests[i][0]==select][0]
 		st.subheader(select)
 		if selection in continues:
