@@ -417,10 +417,12 @@ def main():
 		
 		st.title('Application to visualize where the people answered what to specific questions')
 		
-		col1,col2=st.columns([1,1])
-		
-		radius=2*exp(col1.slider('Modify the size of the hexagons',2.0,10.0))
-		elevation_scale=col2.slider('Modify the heights of the hexagons',10,200)
+		st.caption('The color and the height of the hexagon relates to the number of people who answered the question within the area of the base of the hexagon')
+		st.caption('When it is red, it means many people and you will see the hexagon bar is high, on the other hand when the hexagon is yellow, the bar is low')
+			
+		r=st.slider('Modify the size of the hexagons',5.0,10.0)
+		radius=2*exp(r)
+		elevation_scale=st.slider('Modify the heights of the hexagons',5,20)
 		
 		reference=data[['longitude','latitude']]
 		
@@ -463,9 +465,10 @@ def main():
 		
 		L=[i for i in correlations if ('latitude'in correlations[i].tolist() or 'longitude' in correlations[i].tolist()) and (i in cat_cols or i in continues or len(data[i].unique())<20)]
 		
+		
 		st.markdown("""---""")	
 		
-		select=st.selectbox('Select a question',[quests[i][0] for i in L])
+		select=st.selectbox('Select a question',[quests[i][0] for i in L if i not in ['County','Payam_cleanV\n']])
 		selection=[i for i in quests if quests[i][0]==select][0]
 		st.subheader(select)
 		if selection in continues:
