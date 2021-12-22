@@ -388,13 +388,13 @@ def main():
 				fig1=count2(quest.iloc[i]['variable_x'],quest.iloc[i]['variable_y'],\
 				df,legendtitle=quest.iloc[i]['legendtitle'],xaxis=quest.iloc[i]['xtitle'])
 				fig1.update_layout(title_text=quest.iloc[i]['legendtitle'],font=dict(size=12),showlegend=True)	
-				fig1.update_layout(legend_title_side='top',legend_font_size=16,legend_title_font_size=14,showlegend=True,title=None)
+				fig1.update_layout(legend_title_side='top',legend_font_size=13,legend_title_font_size=16,showlegend=True,title=None)
 				col1.plotly_chart(fig1,use_container_width=True)
 						
 				fig2=pourcent2(quest.iloc[i]['variable_x'],quest.iloc[i]['variable_y'],\
 				df,legendtitle=quest.iloc[i]['legendtitle'],xaxis=quest.iloc[i]['xtitle'])
 				#fig2.update_layout(legend_title_side='top',title_text=quest.iloc[i]['legendtitle'],font=dict(size=12),showlegend=True)
-				fig2.update_layout(legend_title_side='top',legend_font_size=14,legend_title_font_size=16,showlegend=True,title=None)
+				fig2.update_layout(legend_title_side='top',legend_font_size=13,legend_title_font_size=16,showlegend=True,title=None)
 				col2.plotly_chart(fig2,use_container_width=True)
 				st.write(quest.iloc[i]['description'])
 				#st.write(df)		
